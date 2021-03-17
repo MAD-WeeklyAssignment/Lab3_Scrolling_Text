@@ -11,7 +11,7 @@
        android:textColor="@color/white"
        android:padding="10dp"
        android:textStyle="bold"
-       android:text="Article Title"
+       android:text="@string/article_title"
        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"/>
