@@ -9,7 +9,7 @@
        android:id="@+id/article_heading"
        android:background="@color/design_default_color_primary"
        android:textColor="@color/white"
-       android:padding="10dp"
+       android:padding="@dimen/padding_regular"
        android:textStyle="bold"
        android:text="@string/article_title"
        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
