@@ -7,5 +7,10 @@ Text and scrolling views
 
 ### <img src="https://github.com/MAD-WeeklyAssignment/Lab3_Scrolling_Text/blob/master/Lab3/ScrollingText_Screenshot.gif?raw=true" width=300 />
 
+
+
+Running app scrolling views - Challenge 
+### <img src="https://github.com/MAD-WeeklyAssignment/Lab3_Scrolling_Text/blob/master/Lab3/L3Challenge.gif?raw=true" width=300 />
+
 Running app scrolling views - homework 
 ### <img src="https://github.com/MAD-WeeklyAssignment/Lab3_Scrolling_Text/blob/master/Lab3/homework.gif?raw=true" width=300 />
